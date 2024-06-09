@@ -88,7 +88,7 @@ export default function Weather(props) {
           </a>{" "}
           and{" "}
           <a
-            href="https://Mosoeunyane-weather.netlify.app/"
+            href="https://Mosoeunyane.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >

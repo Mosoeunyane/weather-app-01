@@ -70,7 +70,7 @@ export default function Weather(props) {
         <WeatherInfo data={weatherData} />
         <WeatherForecast coordinates={weatherData.coordinates} city={weatherData.city}/>
         <footer>
-          This project was coded by{"lineo Mosoeunyane "}
+          This project was coded by {"lineo Mosoeunyane "}
           <a
             href="https://www.shecodes.io/"
             target="_blank"
@@ -80,7 +80,7 @@ export default function Weather(props) {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/Mosoeunyane/weather"
+            href="https://github.com/Mosoeunyane/"
             target="_blank"
             rel="noopener noreferrer"
           >
